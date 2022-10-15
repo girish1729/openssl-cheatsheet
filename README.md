@@ -362,7 +362,7 @@ $ openssl ocsp -header "Host" "ocsp.stg-int-x1.letsencrypt.org" -issuer chain.pe
 
 ## Download this cheatsheet PDF
 
-[Gumroad download](https://girish1729.gum.co/l/openssl-cheatsheet)
+[Gumroad download](https://girish1729.gumroad.com/l/openssl-cheatsheet)
 
 ## Tweet this to your followers
 
