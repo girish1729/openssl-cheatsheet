@@ -364,5 +364,9 @@ $ openssl ocsp -header "Host" "ocsp.stg-int-x1.letsencrypt.org" -issuer chain.pe
 
 [Gumroad download](https://girish1729.gum.co/l/openssl-cheatsheet)
 
-<a href="https://twitter.com/girish1729?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @girish1729</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Tweet this to your followers
 
+<a href="https://twitter.com/intent/tweet?text=Tweet+this&url=https%3A%2F%2Fgithub.com%2Fgirish1729%2Fopenssl-cheatsheet&hashtags=twitter&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Tweet this"></img>
+</a>
